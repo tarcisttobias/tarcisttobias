@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Tarcis Tobias
+Tarcis Tobias
+Analista de Dados
 
 Show Contacts
 
 Email
-richard@example.com
+tarcistt@outlook.com
 
 Phone
-+1 (213) 352-2795
++55 (24) 99983-8836
 
 Birthday
-June 23, 1982
+December 12, 1994
 
 Location
-Sacramento, California, USA
+Piraí, RJ, Brazil
 
 # navbar
 
