@@ -18,7 +18,7 @@
 </div>
  
 <div align="center">
-<img src="https://github.com/tarcisttobias/portfolio/blob/main/assets/images/data5.webp" align="center" height="" width="" />
+<img src="https://github.com/tarcisttobias/tarcisttobias/blob/master/assets/images/data5.webp" align="center" height="" width="" />
 </div>  
   
 
@@ -93,8 +93,8 @@
 #### Github Status  
 <div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tarcisttobias&show_icons=true&locale=en&theme=dracula" alt="tarcisttobias"/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisttobias&theme=dracula" alt="tarcisttobias" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarcisttobias&show_icons=true&locale=en&theme=dracula" alt="tarcisttobias" height="" width="500"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisttobias&theme=dracula" alt="tarcisttobias" height="" width="500" />
 
 </div> 
  
@@ -122,4 +122,4 @@
 <br />
 
 
-<div align="center"><img src="https://github.com/tarcisttobias/portfolio/blob/main/assets/images/logo.svg" height="30" width="30"/></div>  
+<div align="center"><img src="https://github.com/tarcisttobias/tarcisttobias/blob/master/assets/images/logo.svg" height="30" width="30"/></div>  
