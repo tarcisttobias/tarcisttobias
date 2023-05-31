@@ -92,9 +92,9 @@
 
 #### Github Status  
 <div>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisttobias&theme=dracula" alt="tarcisttobias" height="150" width="400" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tarcisttobias&show_icons=true&locale=en&theme=dracula&hide=contribs" alt="tarcisttobias" height="150" width="400"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarcisttobias&show_icons=true&locale=en&theme=dracula" alt="tarcisttobias" height="" width="400"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisttobias&theme=dracula" alt="tarcisttobias" height="" width="400" />
 
 </div> 
  
