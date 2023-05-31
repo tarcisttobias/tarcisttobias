@@ -18,7 +18,7 @@
 </div>
  
 <div align="center">
-<img src="https://github.com/tarcisttobias/portfolio/blob/main/assets/images/cloudd.gif" align="center" height="" width="300" />
+<img src="https://github.com/tarcisttobias/portfolio/blob/main/assets/images/data5.webp" align="center" height="" width="" />
 </div>  
   
 
