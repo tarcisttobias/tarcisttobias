@@ -1,4 +1,4 @@
-![data](https://github.com/tarcisttobias/portfolio/assets/images/data.gif)
+![data](https://github.com/tarcisttobias/portfolio/assets/images/data.gif) 
 
 
 <h1 align="center">Tarcis Tavares Tobias</h1>
