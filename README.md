@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst</h3>
 
 <p align="right"> 
-<img src="https://komarev.com/ghpvc/?username=tarcisttobias&label=Profile%20views&color=0e75b6&style=flat" alt="tarcisttobias" /> </p>
+<img src="https://komarev.com/ghpvc/?username=tarcisttobias&label=Profile%20views&color=0e75b6&style=flat" alt="tarcisttobias" />
 <a href="https://twitter.com/tarcisttobias" target="blank"><img src="https://img.shields.io/twitter/follow/tarcisttobias?logo=twitter&style=for-the-badge" alt="tarcisttobias" /></a> </p>
 
 
