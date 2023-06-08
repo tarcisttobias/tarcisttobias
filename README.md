@@ -54,10 +54,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://wa.me/tarcisttobias" target="_blank">
-<img src=https://img.shields.io/badge/whatsapp-%23000000.svg?&style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/whatsapp-%2325d366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp style="margin-bottom: 5px;" />
 </a> 
 <a href="https://t.me/tarcisttobias" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/telegram-%2324a1de.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a> 
 <a href="https://instagram.com/tarcisttobias" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
