@@ -108,7 +108,11 @@
 
 <div align="center"><img src="https://github.com/tarcisttobias/tarcisttobias/blob/master/assets/images/logo.svg" height="30" width="30"/></div>  
 
+
+
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="tarcisttobias" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/tarcisttobias?trk=profile-badge">Tarcis Tavares Tobias</a></div>
+
+
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
