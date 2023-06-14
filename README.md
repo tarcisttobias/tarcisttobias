@@ -3,7 +3,7 @@
 </div>  
   
 
-#### Eu sou Tarcis, um analista de dados 💻 experiente e criativo que oferece soluções personalizadas para diversos clientes. Trabalho como freelancer em tempo integral e remotamente desde 2018 🚀, o que me permite ter flexibilidade e autonomia no meu trabalho.  
+#### Eu sou um analista de dados experiente e criativo que oferece soluções personalizadas para diversos clientes. Trabalho remotamente 🚀 desde 2018, o que me permite ter flexibilidade e autonomia no meu trabalho.
   
 
 - 📈 Experiência em DataViz e ETL.  
