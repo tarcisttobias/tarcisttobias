@@ -1,1 +1,0 @@
-const handlePrint = () => window.print();
